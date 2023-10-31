@@ -1,6 +1,6 @@
 const localeSettings = {};
 
-dayjs.locale(localSettings);
+dayjs.locale(localeSettings);
 
 // main function, everything goes inside this function //
 $(function () {
