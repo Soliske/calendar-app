@@ -1,4 +1,4 @@
-const localSettings = {};
+const localeSettings = {};
 
 dayjs.locale(localSettings);
 
